@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @karthices
+- 👀 I’m interested in learning new technologies and IoT device programmings
+- 🌱 I’m currently learning python
+- 📫 drop a mail to karthices@gmail.com or whatsapp to +91 77 36 422 669
